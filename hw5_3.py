@@ -1,11 +1,6 @@
 import itertools
 import json
 import numpy as np
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-from scipy.stats import lognorm
 
 
 def value(f, g, g_final, wdist, T):
